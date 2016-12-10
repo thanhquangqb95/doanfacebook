@@ -1,0 +1,12 @@
+C:\Users\Administrator\Source\Repos\doanfacebook\doanfacebook\doanfacebook\bin\Debug\doanfacebook.exe.config
+C:\Users\Administrator\Source\Repos\doanfacebook\doanfacebook\doanfacebook\bin\Debug\doanfacebook.exe
+C:\Users\Administrator\Source\Repos\doanfacebook\doanfacebook\doanfacebook\bin\Debug\doanfacebook.pdb
+C:\Users\Administrator\Source\Repos\doanfacebook\doanfacebook\doanfacebook\obj\Debug\doanfacebook.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\doanfacebook\doanfacebook\doanfacebook\obj\Debug\doanfacebook.Properties.Resources.resources
+C:\Users\Administrator\Source\Repos\doanfacebook\doanfacebook\doanfacebook\obj\Debug\doanfacebook.csproj.GenerateResource.Cache
+C:\Users\Administrator\Source\Repos\doanfacebook\doanfacebook\doanfacebook\obj\Debug\doanfacebook.exe
+C:\Users\Administrator\Source\Repos\doanfacebook\doanfacebook\doanfacebook\obj\Debug\doanfacebook.pdb
+C:\Users\Administrator\Source\Repos\doanfacebook\doanfacebook\doanfacebook\obj\Debug\doanfacebook.Main.resources
+C:\Users\Administrator\Source\Repos\doanfacebook\doanfacebook\doanfacebook\bin\Debug\Facebook.dll
+C:\Users\Administrator\Source\Repos\doanfacebook\doanfacebook\doanfacebook\bin\Debug\Facebook.xml
+C:\Users\Administrator\Source\Repos\doanfacebook\doanfacebook\doanfacebook\obj\Debug\doanfacebook.frmDangNhap.resources
